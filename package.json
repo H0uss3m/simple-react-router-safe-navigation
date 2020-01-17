@@ -5,10 +5,7 @@
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
-<<<<<<< HEAD
     "js-cookie": "2.2.1",
-=======
->>>>>>> efeaf7471d9e5f9da05a27d13b6e36bf86253b45
     "react": "16.12.0",
     "react-dom": "16.12.0",
     "react-router-dom": "5.1.2",
